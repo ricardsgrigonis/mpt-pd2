@@ -23,7 +23,7 @@
                 @endif
 
                 <div class="container">
-                    <div>Turnīra desmit rupjāko spēlētāju saraksts, sakārtojot tos disltošā secībā pēc pārkāpumu skaita.
+                    <div>Turnīra desmit rupjāko spēlētāju saraksts, sakārtojot tos dilstošā secībā pēc pārkāpumu skaita.
                         Vienāda skaita gadījumā augstāk tiek rādīti tie, kam ir vairāk sarkano kartīšu.
                     </div>
                     <br>
